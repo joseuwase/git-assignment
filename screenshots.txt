@@ -1,0 +1,14 @@
+Git Assignment Documentation:
+
+1. Created repository using git init
+2. Created README.md and made initial commit
+3. Created feature branch using git branch feature
+4. Switched to feature branch
+5. Created feature.txt file
+6. Committed changes in feature branch
+7. Merged feature branch into main
+8. Connected repository to GitHub (remote origin)
+9. Pushed code to GitHub
+10. Created Pull Request on GitHub
+11. Merged Pull Request successfully
+12. Deleted feature branch after merge
