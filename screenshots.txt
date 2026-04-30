@@ -1,14 +1,10 @@
-Git Assignment Documentation:
-
-1. Created repository using git init
-2. Created README.md and made initial commit
-3. Created feature branch using git branch feature
-4. Switched to feature branch
-5. Created feature.txt file
-6. Committed changes in feature branch
-7. Merged feature branch into main
-8. Connected repository to GitHub (remote origin)
-9. Pushed code to GitHub
-10. Created Pull Request on GitHub
-11. Merged Pull Request successfully
-12. Deleted feature branch after merge
+Screenshot 1: Initial repository created using git init
+Screenshot 2: README.md created and first commit made
+Screenshot 3: feature branch created (git branch feature)
+Screenshot 4: feature.txt created in feature branch
+Screenshot 5: feature branch merged into main
+Screenshot 6: repository connected to GitHub
+Screenshot 7: code pushed to GitHub successfully
+Screenshot 8: Pull Request created on GitHub
+Screenshot 9: Pull Request merged successfully
+Screenshot 10: feature branch deleted after merge
